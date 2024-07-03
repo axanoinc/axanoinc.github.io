@@ -298,11 +298,11 @@ background: #fff;
 }
 #about {
 	background: #FFF;
-	padding: 100px 0;
+	padding-top: 100px;
 }
 .services {
 	background: #FFFFFF;
-	padding: 100px 0;
+	padding-top: 100px;
 }
 .services .fa {
 	color: var(--maincolor);
@@ -568,6 +568,7 @@ z-index: -1;}
 	border: 0;
 }
 #contact {
+	padding-top: 100px;
 	padding-bottom: 100px;
 }
 
