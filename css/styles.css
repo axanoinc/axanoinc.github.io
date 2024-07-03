@@ -45,6 +45,10 @@ body {
 	padding: 10px;
 	background-color: var(--maincolor);
 }
+#slogan {
+	font-size: 50px;
+	font-weight: 400;
+}
 .logo a {
 margin: 0 auto; 
 display: inline-block; 
@@ -199,7 +203,6 @@ a:before, a:after {
 	font-size: 50px;
 	font-weight: 400;
 	text-align: center;
-	letter-spacing: 3px;
 	margin-top: 200px;
 }
 #headerwrap p {
